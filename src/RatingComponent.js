@@ -50,7 +50,7 @@ function Rating({ handleRating }) {
     </div>
   );
 }
-function Submit({ handleSubmit }) {
+function Submit() {
   return (
     <Link to="/thankyou">
       <button className="submit">SUBMIT</button>
