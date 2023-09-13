@@ -152,7 +152,7 @@ h1 {
     letter-spacing: 0.156rem;
   }
   .ty-component {
-    padding: 2.2rem 1rem;
+    padding: 2.2rem 1.2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
