@@ -4,11 +4,7 @@ export default function RatingComponent({ selectedRating, setSelectedRating }) {
   function handleRating(rating) {
     setSelectedRating(rating);
   }
-  //   function handleSubmit(e) {
-  //     e.preventDefault();
-  //     if (!selectedRating) return;
-  //     setIsSubmitted(true);
-  //   }
+  
   return (
     <div className="component">
       <Star />
